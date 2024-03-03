@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1683104735 source:c:\users\ayoub zerdoum\desktop\projet c++\garagev10\source10.cpp
+	"header10.h"
+	"algorithm"
+	<algorithm>
+	<stack>
+	<vector>
+	<list>
+
+1683059647 c:\users\ayoub zerdoum\desktop\projet c++\garagev10\header10.h
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<iomanip>
+	<map>
+	<algorithm>
+	<stack>
+	<list>
+	<exception>
+	<limits>
+
+1683104566 source:c:\users\ayoub zerdoum\desktop\projet c++\garagev10\main.cpp
+	<iostream>
+	"header10.h"
+
